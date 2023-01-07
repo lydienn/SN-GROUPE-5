@@ -1,0 +1,18 @@
+P{
+   color: white;
+   font-size: 20px;
+}
+
+header{
+   background-color: royablue;
+   padding: 10px;
+}
+
+button{
+  background-color: grey;
+}
+
+footer{
+  background-color: royalblue;
+  padding: 1px;
+}
